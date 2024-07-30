@@ -1,0 +1,7 @@
+cohere
+python-dotenv
+requests
+spacy
+langgraph
+langchain
+streamlit
