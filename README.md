@@ -76,3 +76,15 @@ streamlit run app.py
 3. **Extract Entities**: Identifies key entities from summaries using SpaCy.
 4. **Link Entities**: Provides Google search links for each entity.
 5. **Display Results**: Shows articles, summaries, entities, and search links on the Streamlit app.
+
+## App usage Screenshorts
+<img width="631" alt="Screenshot 2024-07-30 at 5 46 12 PM" src="https://github.com/user-attachments/assets/173a3bf8-405e-43dc-9605-996a508c3358">
+<img width="631" alt="Screenshot 2024-07-30 at 5 46 39 PM" src="https://github.com/user-attachments/assets/28479442-0bc8-4b72-9c7e-4bf505e84b1d">
+<img width="631" alt="Screenshot 2024-07-30 at 5 47 40 PM" src="https://github.com/user-attachments/assets/3a44dee1-1851-4cad-be3e-544255cf0d0a">
+
+
+
+
+
+
+
